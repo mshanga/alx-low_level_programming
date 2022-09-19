@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include "main.h"
-#include "holberton.h"
 /**
 * puts_half - prints half of a string.
 * @str: input string.
@@ -26,5 +25,3 @@ for (i++; i < count; i++)
 _putchar(str[i]);
 _putchar('\n');
 }
-
-
