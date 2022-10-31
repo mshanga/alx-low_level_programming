@@ -1,1 +1,4 @@
-This is a readme for bit manipulation and all files were from Mr. Precious
+0x14-bit_manipulation
+
+This is a readme for bit manipulation
+
